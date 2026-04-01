@@ -1,2 +1,8 @@
 # Amazon_Sales-PowerBI
-Taking a kaggle dataset featuring 122K rows of an Amazon sales "snapshot" for specific clothing sales in India. This repo features a clean professional dashboard on insights into logistics, sizing, sales patterns, logistical black box data, and size insights. 
+Data was sourced from kaggle featuring an Amazon Sales Dataset with over 122K rows.
+Data was processed and cleaned through Python and Power Query which involved standardizing 50+ state variations to coincide with India's 28 states and 8 unions. 
+Performed null value imputation and removed outlier records for 99% accuracy. 
+Removed unnecessary rows.
+
+Ultimately built a completed executive level dashboard complete with KPI's, Insights, Developments, and Bubble Map for peak visualization. 
+ 
